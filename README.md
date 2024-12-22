@@ -23,16 +23,10 @@ Tkinter: GUI library for building the interface.
 
 **How to Use**
 
-Clone this repository using the command:
+Clone this repository using the command: git clone https://github.com/your-username/calculator-app.git
 
-git clone https://github.com/your-username/calculator-app.git
+Navigate to the project directory: cd calculator-app
 
-Navigate to the project directory:
-
-cd calculator-app
-
-Run the Python script:
-
-python calculator.py
+Run the Python script: python calculator.py
 
 Use the buttons on the calculator to perform calculations.
